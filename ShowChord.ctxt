@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ mouseClicked\ starts\ the\ if\ statements\n\ \n\ ImageReader\ is\ a\ variable\ created\ in\ each\ chord,\ sharp,\ flat\ and\ minor\n\ to\ determine\ the\ final\ chord\ selection.\n\ \n\ playSound\ plays\ the\ audio\ sample\ from\ the\ audio\ folder\ based\ on\ the\ if\ statement\ outcome.\n\ \n\ addObject\ calls\ from\ the\ Chord\ class\ via\ the\ Array\ index\ to\ display\ the\ chord\ image\ at\n\ the\ given\ coordinates\n
+numComments=1

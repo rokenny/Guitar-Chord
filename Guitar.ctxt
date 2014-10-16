@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Guitar()
+comment0.text=\n\ Creates\ the\ layout\ for\ the\ app\n\ makeButton()\ runs\ the\ method\ to\ create\ the\ app\n
+comment1.params=
+comment1.target=void\ makeButtons()
+comment1.text=\n\ Places\ the\ buttons\ on\ the\ app\ in\ the\ required\ coordinates\n\ addObject()\ \ Creates\ the\ buttons\ representing\ the\ actors.\ \ \ \n
+numComments=2
